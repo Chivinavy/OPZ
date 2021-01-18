@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  test.cpp
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl eval(char *)" (?eval@@YANPAD@Z) в функции "private: virtual void __thiscall TestCase1_Test1_Test::TestBody(void)" (?TestBody@TestCase1_Test1_Test@@EAEXXZ).
+C:\Users\slend\Desktop\OPZ\Debug\Test.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
